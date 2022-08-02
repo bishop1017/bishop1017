@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bishop1017
-- 👀 I’m interested in Front-end Websites 
+- 👀 I’m interested in Solving problems 
 - 🌱 I’m currently learning Python & Django
 - 💞️ I’m looking to collaborate on Interactive Websites with nice functionality 
 - 📫 Hit me up, Bishop1017.elaigwu@gmail.com , +2348115940441
