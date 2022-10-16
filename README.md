@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @bishop1017
 - 👀 I’m interested in Solving problems 
 - UX/UI designer 
+  - Portfolio - https://glittery-croquembouche-250c65.netlify.app
   - AirBnb - https://www.figma.com/file/z3Ggm8EwOO7wJAjGik3vgL/Airbnb-Design
   - Tailors - https://www.figma.com/file/NkDhn7TKditDn1tQ68RZTT/For-Tailors-Copy
   - Leanstack page - https://www.figma.com/file/yWB9LNi4m1Vi8Eg1cpj4Uz/Leanstack-New-Copy
